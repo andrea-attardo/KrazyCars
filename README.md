@@ -13,4 +13,6 @@ C++ Project developed with Unreal Engine 5
 - ...
 
 <h4>Screenshots:</h4>
-<img src="https://github.com/andrea-attardo/ToonTanks/blob/671d1d026cce06959fa104f8f1b2f279a099a490/Content/toontankseditorscreen.png" alt="drawing" width="300"/>
+<img src="https://github.com/andrea-attardo/KrazyCars/blob/master/Content/krazycars1.png" alt="drawing" width="300"/>
+<img src="https://github.com/andrea-attardo/KrazyCars/blob/master/Content/krazycars2.png" alt="drawing" width="300"/>
+<img src="https://github.com/andrea-attardo/KrazyCars/blob/master/Content/krazycars3.png" alt="drawing" width="300"/>
